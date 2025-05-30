@@ -1,5 +1,7 @@
-body {
-  font-family: "Raleway", sans-serif;
+.coral-pixels-regular {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* Hero Section */
